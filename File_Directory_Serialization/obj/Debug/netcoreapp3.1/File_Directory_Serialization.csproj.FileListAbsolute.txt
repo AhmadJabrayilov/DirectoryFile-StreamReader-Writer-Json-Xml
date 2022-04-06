@@ -1,0 +1,14 @@
+C:\Users\User\Desktop\HOMETASKS\File_Directory_Serialization\File_Directory_Serialization\bin\Debug\netcoreapp3.1\File_Directory_Serialization.exe
+C:\Users\User\Desktop\HOMETASKS\File_Directory_Serialization\File_Directory_Serialization\bin\Debug\netcoreapp3.1\File_Directory_Serialization.deps.json
+C:\Users\User\Desktop\HOMETASKS\File_Directory_Serialization\File_Directory_Serialization\bin\Debug\netcoreapp3.1\File_Directory_Serialization.runtimeconfig.json
+C:\Users\User\Desktop\HOMETASKS\File_Directory_Serialization\File_Directory_Serialization\bin\Debug\netcoreapp3.1\File_Directory_Serialization.runtimeconfig.dev.json
+C:\Users\User\Desktop\HOMETASKS\File_Directory_Serialization\File_Directory_Serialization\bin\Debug\netcoreapp3.1\File_Directory_Serialization.dll
+C:\Users\User\Desktop\HOMETASKS\File_Directory_Serialization\File_Directory_Serialization\bin\Debug\netcoreapp3.1\File_Directory_Serialization.pdb
+C:\Users\User\Desktop\HOMETASKS\File_Directory_Serialization\File_Directory_Serialization\obj\Debug\netcoreapp3.1\File_Directory_Serialization.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\HOMETASKS\File_Directory_Serialization\File_Directory_Serialization\obj\Debug\netcoreapp3.1\File_Directory_Serialization.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\HOMETASKS\File_Directory_Serialization\File_Directory_Serialization\obj\Debug\netcoreapp3.1\File_Directory_Serialization.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\HOMETASKS\File_Directory_Serialization\File_Directory_Serialization\obj\Debug\netcoreapp3.1\File_Directory_Serialization.AssemblyInfo.cs
+C:\Users\User\Desktop\HOMETASKS\File_Directory_Serialization\File_Directory_Serialization\obj\Debug\netcoreapp3.1\File_Directory_Serialization.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\HOMETASKS\File_Directory_Serialization\File_Directory_Serialization\obj\Debug\netcoreapp3.1\File_Directory_Serialization.dll
+C:\Users\User\Desktop\HOMETASKS\File_Directory_Serialization\File_Directory_Serialization\obj\Debug\netcoreapp3.1\File_Directory_Serialization.pdb
+C:\Users\User\Desktop\HOMETASKS\File_Directory_Serialization\File_Directory_Serialization\obj\Debug\netcoreapp3.1\File_Directory_Serialization.genruntimeconfig.cache
